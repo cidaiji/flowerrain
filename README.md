@@ -29,3 +29,10 @@ V2.0版本亮点
 友好404：定制化404页面，引导迷失的访客，提升用户体验。
 目录优化：修正目录访问错误，保护敏感信息，提升服务器响应质量。
 一键启动：通过node app.js即可启动应用，便捷开发，快速部署。
+![Web-image]  ![Windows-image]  ![MacOS-image]  ![Linux-image]
+
+[Web-image]: https://img.shields.io/badge/Web-PWA-orange?logo=microsoftedge
+[Windows-image]: https://img.shields.io/badge/-Windows-blue?logo=windows
+[MacOS-image]: https://img.shields.io/badge/-MacOS-black?logo=apple
+[Linux-image]: https://img.shields.io/badge/-Linux-333?logo=ubuntu
+

@@ -7,7 +7,7 @@
 [Windows-image]: https://img.shields.io/badge/-Windows-blue?logo=windows
 [MacOS-image]: https://img.shields.io/badge/-MacOS-black?logo=apple
 [Linux-image]: https://img.shields.io/badge/-Linux-333?logo=ubuntu
-------------------------------------------------
+--------------------------------------------------------------------------------------------------------------
 项目综述
 
 本项目携手cidaiji.com精心打造的花雨CSS（FlowerrainCSS）——一款专注于中文美学的轻量化前端框架，以及简一表单系统——一个无需后端数据库的高效表单解决方案，共同为开发者呈现了一套既美观又高效的前端开发利器。无论是构建企业形象官网、个人博客、电商平台，还是移动端应用，这套组合都将为您的项目增添一抹独特的中文韵味与流畅的用户体验。

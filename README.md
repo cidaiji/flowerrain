@@ -10,7 +10,7 @@
 
 
 <!-- PROJECT LOGO -->
-   align="center"
+  
 ![](https://xianmoxukong.top/2.png)  
   
 <br />

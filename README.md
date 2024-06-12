@@ -56,8 +56,12 @@
 ### 上手指南
 
 V1.0和2.0解压后执行start.bat
-V2.5需要执行PIP install pyqt6
+V2.5未编译版需要执行
 
+```
+PIP install pyqt6
+
+```
 ###### 开发前的配置要求
 
 1. node.js>18

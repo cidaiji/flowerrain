@@ -3,14 +3,14 @@
 # 简一表单提交系统+花雨CSS（中文样式表）
 
 
-ProjectName and Description
+花雨CSS+简一表单
 
 <!-- PROJECT SHIELDS -->
 
 
 
 <!-- PROJECT LOGO -->
-  
+  <p align="center">
 ![](https://xianmoxukong.top/2.png)  
   
 <br />

@@ -29,6 +29,8 @@
     <a href="https://xianmoxukong.top/feedback.html">报告Bug</a>
     ·
     <a href="https://xianmoxukong.top/feedback.html">提出新特性</a>
+    .
+     <a href="https://xianmoxukong.top/">下载windows直接安装版本</a>
   </p>
 
 </p>

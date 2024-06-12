@@ -72,7 +72,7 @@ V2.5需要执行PIP install pyqt6
 
 
 ### 文件目录说明
-eg:
+
 
 ```
 filetree 
@@ -86,8 +86,12 @@ filetree
 
 
 
+windows:
+```
 
+https://xianmoxukong.top/download/apps/windows-x64-v2.5.rar
 
+```
 
 
 

@@ -10,6 +10,7 @@ ProjectName and Description
 
 
 <!-- PROJECT LOGO -->
+![](http://www.baidu.com/img/bdlogo.gif)  
 <br />
 
 <p align="center">
